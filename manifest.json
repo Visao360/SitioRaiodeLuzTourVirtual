@@ -1,7 +1,4 @@
 {
- "name": "Sítio Raio de Luz",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF"
+ "name": "Sítio Raio de Luz",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true"
 }
